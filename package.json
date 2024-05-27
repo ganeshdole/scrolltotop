@@ -1,6 +1,6 @@
 {
   "name": "@ganeshdole/scrolltotop",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "In a React Single Page Application (SPA), users often expect the view to scroll to the top when they navigate to a new page. Without this functionality, users might find themselves starting at an arbitrary scroll position, which can be confusing and lead to a poor user experience. The following approaches ensure that the window scrolls to the top whenever a new page is loaded using React Router.",
   "main": "index.js",
   "scripts": {
